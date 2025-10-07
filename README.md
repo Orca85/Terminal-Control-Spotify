@@ -1,3 +1,5 @@
+I build tools and apps in my spare time. If you'd like to support future updates, you're welcome to buy me a coffee — totally up to you. https://buymeacoffee.com/orca85
+
 # Spotify CLI for PowerShell - Advanced Edition
 
 A comprehensive command-line interface for controlling Spotify playback directly from PowerShell with advanced features including interactive navigation, smart playlist management, cross-platform compatibility, and enhanced user experience.
