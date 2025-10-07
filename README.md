@@ -383,8 +383,10 @@ The Spotify CLI Advanced Edition provides a comprehensive, tested, and validated
 
 For support or issues, use the built-in troubleshooting tools or check the comprehensive help system.
 
-## Support My Work
+## ☕ Support My Work
 
 If you enjoy the tools and apps I build, feel free to support future updates — totally optional, but always appreciated!
 
-[![Buy Me a Coffee](https://github.com/Orca85/Terminal-Control-Spotify/blob/main/images/coffee-qr.png?raw=true)(https://your-image-host.com/your-qr-code.png)](https://buymeacoffee.com/orca85)
+<a href="https://buymeacoffee.com/orca85" target="_blank">
+  <img src="https://github.com/Orca85/Terminal-Control-Spotify/blob/main/images/coffee-qr.png?raw=true" alt="Buy Me a Coffee QR" width="150" />
+</a>
