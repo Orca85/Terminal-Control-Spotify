@@ -1,0 +1,31 @@
+# PowerShell script artifacts
+# *.ps1~
+*.psm1~
+*.log
+*.tmp
+*.bak
+
+# User-specific settings
+*.suo
+*.user
+*.vspscc
+
+# VS Code settings (om du använder det)
+.vscode/
+*.code-workspace
+
+# Credential or config files
+*.env
+secrets.json
+config.local.json
+
+# NuGet / paket-cache (om du använder moduler)
+packages/
+*.nupkg
+
+# OS-specifika skräp
+Thumbs.db
+.DS_Store
+
+# Testresultat
+TestResults/
