@@ -1,4 +1,9 @@
-I build tools and apps in my spare time. If you'd like to support future updates, you're welcome to buy me a coffee — totally up to you. https://buymeacoffee.com/orca85
+## Support My Work
+
+If you enjoy the tools and apps I build, feel free to support future updates — totally optional, but always appreciated!
+
+[![Buy Me a Coffee](https://your-image-host.com/your-qr-code.png)](https://buymeacoffee.com/orca85)
+
 
 # Spotify CLI for PowerShell - Advanced Edition
 
